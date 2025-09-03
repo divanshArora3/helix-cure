@@ -4,6 +4,11 @@ Book 1‑on‑1 video calls with doctors, manage appointments, and handle paymen
 
 ---
 
+## 🔴 Live Demo  
+
+- 🌐 [Frontend (Patient/Doctor Portal)](https://helixcure-frontend.onrender.com)  
+- 🛠️ [Admin Portal](https://helixcure-admin.onrender.com)
+  
 ## ✨ Features
 
 * **Patient portal**: search/filter doctors, view profiles, book/cancel/reschedule appointments, pay online, join video calls.
